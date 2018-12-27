@@ -1,3 +1,6 @@
+BELOW IS THE ORIGINAL POSTER README, I JUST FORK THIS FOR PERSONAL PROJECT, THANKS
+==================================================================================
+
 Country Code Picker Library
 ===========================
 
